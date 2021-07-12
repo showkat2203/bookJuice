@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T17:02:03.739Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="oGEJjbiPTfrACbeIFOjA" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T17:19:37.107Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="bwBDDT3qeE5tx7zMOJ64" version="14.8.5" type="github">
   <diagram id="t7YS_TH_fgyImCrVqkUV" name="Page-1">
     <mxGraphModel dx="3612" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -304,10 +304,10 @@
           <mxGeometry x="772.5" y="760" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3H9cu1yrekagmBGRHgR9-38" value="View Notification" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="900" y="600" width="115" height="30" as="geometry" />
+          <mxGeometry x="900" y="580" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3H9cu1yrekagmBGRHgR9-40" value="Mark all as read" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="900" y="640" width="115" height="30" as="geometry" />
+          <mxGeometry x="900" y="665" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jzZjJDRc0cQQ_kIJz3c9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;labelBorderColor=none;" parent="1" source="wYOs1hw6T_1-Dhefr2wr-104" target="wYOs1hw6T_1-Dhefr2wr-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -470,8 +470,14 @@
         <mxCell id="wD42XLYMJ8Ef5kfF9NE--1" value="Add to Favorites" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry y="960" width="75" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wD42XLYMJ8Ef5kfF9NE--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wD42XLYMJ8Ef5kfF9NE--2" target="wD42XLYMJ8Ef5kfF9NE--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wD42XLYMJ8Ef5kfF9NE--2" value="View Episodes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="960" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wD42XLYMJ8Ef5kfF9NE--11" value="Click Single Episode" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1050" width="75" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
